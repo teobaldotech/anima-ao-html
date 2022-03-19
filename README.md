@@ -1,12 +1,11 @@
 <!DOCTYPE html>
+
 <html>
     <h2>animaçao css</h2>
 <head>
 <style> 
 div {
-  width: 200px;
-  height: 150px;
-  background: blue;
+  
   position: relative;
   animation-name: mymove;
   animation-duration: 6s;
@@ -23,4 +22,28 @@ div {
 <div></div>
 
 </body>
+
+
+<html>
+<head>
+<style>
+.center {
+  margin: auto;
+  width: 60%;
+  height: 70%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+
+<div class="center">
+  <p>Hello   css  animation</p>
+</div>
+
+</body>
 </html>
+
+
